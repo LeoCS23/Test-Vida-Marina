@@ -20,6 +20,8 @@ CREATE TABLE [dbo].[FACTURAS] (
     PRIMARY KEY CLUSTERED ([id] ASC)
 );
 
+**Conección a la base de datos**
+Se encuentra en el archivo appsettings.json
 **Instalación**
  -los archivos no fueron subidos en despliegue, por tanto están funcionando en local
  -El motor de Base de datos fue SQL EXPRESS
